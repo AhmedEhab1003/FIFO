@@ -69,5 +69,5 @@ The design includes a parameterized FIFO module, a testbench for functional veri
 - Support for burst transactions.
 
 
-## Run on EDA Playground
- edaplayground.com/x/q8H9
+## Run on [EDA Playground](https://www.edaplayground.com/x/q8H9)
+ 
