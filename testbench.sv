@@ -1,6 +1,4 @@
-`include "interface.sv"
-`include "top.sv"
-`include "transaction.sv"
+
 module testbench #(parameter
                    ADDR_WIDTH  = 5,
                    DATA_WIDTH  = 8,
